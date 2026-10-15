@@ -1,0 +1,16 @@
+{
+  "name": "b5d-context-bar",
+  "owner": {
+    "name": "Leslie Valmonte (Bridge5D)"
+  },
+  "metadata": {
+    "description": "Bridge5D's Claude Code mods"
+  },
+  "plugins": [
+    {
+      "name": "context-bar",
+      "source": "./",
+      "description": "Draws the context window above the prompt as a stacked bar, one color per /context category; /context-bar toggles it"
+    }
+  ]
+}

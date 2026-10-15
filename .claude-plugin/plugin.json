@@ -1,0 +1,7 @@
+{
+  "name": "context-bar",
+  "version": "0.1.0",
+  "description": "Draws the context window above the prompt as a stacked bar, one color per /context category; /context-bar toggles it",
+  "author": { "name": "Leslie Valmonte (Bridge5D)" },
+  "types": "./types/index.d.ts"
+}
